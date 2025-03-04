@@ -28,9 +28,4 @@ This dataset consists of vehicle silhouette images characterized by shape featur
   - **1-layer decoder** to reconstruct data.
 - Additional constraints are applied to force the **Autoencoder to behave like PCA**.
 
-## Installation
-### Prerequisites
-Ensure you have the following Python libraries installed:
-```bash
-pip install numpy pandas scikit-learn torch torchvision matplotlib seaborn
 
